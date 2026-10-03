@@ -1,4 +1,4 @@
-const CACHE_NAME = 'chemical-trans-physiclabdz-v1';
+const CACHE_NAME = 'chemical-trans-physiclabdz-v2';
 const ASSETS = [
   './',
   './index.html',
